@@ -1,0 +1,423 @@
+1607547082250	geckodriver	INFO	Listening on 127.0.0.1:42927
+1607547082253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileceBoGW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607547086463	Marionette	INFO	Listening on port 34523
+1607547086480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607547131502	Marionette	INFO	Stopped listening on port 34523
+1607547237984	geckodriver	INFO	Listening on 127.0.0.1:34261
+1607547237987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevr3Qlc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607547241213	Marionette	INFO	Listening on port 43415
+1607547241320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607547360514	geckodriver	INFO	Listening on 127.0.0.1:53809
+1607547360517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley6TZSm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607547365938	Marionette	INFO	Listening on port 34549
+1607547366059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+1607547478814	geckodriver	INFO	Listening on 127.0.0.1:38581
+1607547478818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJniiE5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607547484332	Marionette	INFO	Listening on port 38473
+1607547484851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+1607547676936	geckodriver	INFO	Listening on 127.0.0.1:60183
+1607547676939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiit3Mn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607547684515	Marionette	INFO	Listening on port 35283
+1607547684602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607547700335	Marionette	INFO	Stopped listening on port 43415
+1607547700520	Marionette	INFO	Stopped listening on port 34549
+1607547700827	Marionette	INFO	Stopped listening on port 38473
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607547912239	Marionette	INFO	Stopped listening on port 35283
+1607547922722	geckodriver	INFO	Listening on 127.0.0.1:55341
+1607547922726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLea4uh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607547930135	Marionette	INFO	Listening on port 40663
+1607547930161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+1607548149038	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1607548224969	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607549705328	geckodriver	INFO	Listening on 127.0.0.1:49807
+1607549705331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMUgCgs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607549709673	Marionette	INFO	Listening on port 40559
+1607549709783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607549715020	Marionette	INFO	Stopped listening on port 40663
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+1607549740980	Marionette	INFO	Stopped listening on port 40559
+1607549802284	geckodriver	INFO	Listening on 127.0.0.1:51327
+1607549802288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecZfO5Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607549806355	Marionette	INFO	Listening on port 40405
+1607549806433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+1607552325612	geckodriver	INFO	Listening on 127.0.0.1:57197
+1607552325616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee45oYf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607552329472	Marionette	INFO	Listening on port 40023
+1607552329540	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607552342306	Marionette	INFO	Stopped listening on port 40405
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607553929556	Marionette	INFO	Stopped listening on port 40023
+1607554035601	geckodriver	INFO	Listening on 127.0.0.1:35233
+1607554035605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXE83ym"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607554047869	Marionette	INFO	Listening on port 33695
+1607554047956	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+1607554082261	Marionette	INFO	Stopped listening on port 33695
+1607588956063	geckodriver	INFO	Listening on 127.0.0.1:45933
+1607588956093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesxrema"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588967258	Marionette	INFO	Listening on port 44055
+1607588967367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+1607588997197	Marionette	INFO	Stopped listening on port 44055
+1607589074663	geckodriver	INFO	Listening on 127.0.0.1:49243
+1607589074666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevLboDi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607589078655	Marionette	INFO	Listening on port 40335
+1607589078692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607591054966	Marionette	INFO	Stopped listening on port 40335
+1607591079032	geckodriver	INFO	Listening on 127.0.0.1:57831
+1607591079036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMaDItL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607591084652	Marionette	INFO	Listening on port 38069
+1607591084674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607594411897	geckodriver	INFO	Listening on 127.0.0.1:58615
+1607594411901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB2ogZY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607594416769	Marionette	INFO	Listening on port 35583
+1607594416840	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 724))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607595582685	Marionette	INFO	Stopped listening on port 35583
+1607595596049	geckodriver	INFO	Listening on 127.0.0.1:37127
+1607595596053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVD5JrI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607595599931	Marionette	INFO	Listening on port 36463
+1607595599977	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607597766169	Marionette	INFO	Stopped listening on port 36463
+1607597783501	geckodriver	INFO	Listening on 127.0.0.1:48187
+1607597783505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaFoBz8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1607597788479	Marionette	INFO	Listening on port 38105
+1607597788540	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine yandex@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine mailru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ozonru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine priceru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1607597800187	Marionette	INFO	Stopped listening on port 38105
+1607597831972	geckodriver	INFO	Listening on 127.0.0.1:55105
+1607597831975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezKMcDk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607597836361	Marionette	INFO	Listening on port 38833
+1607597836407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607599545941	Marionette	INFO	Stopped listening on port 38833
+1607599563088	geckodriver	INFO	Listening on 127.0.0.1:41559
+1607599563091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTL8DFo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607599568269	Marionette	INFO	Listening on port 33973
+1607599568341	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607601457870	geckodriver	INFO	Listening on 127.0.0.1:58765
+1607601457874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileniusru"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607601480920	Marionette	INFO	Listening on port 44419
+1607601480983	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607603448186	geckodriver	INFO	Listening on 127.0.0.1:43583
+1607603448196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileplO9VW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607603457644	Marionette	INFO	Listening on port 44021
+1607603457771	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607605209655	Marionette	INFO	Stopped listening on port 44021
+1607605224275	Marionette	INFO	Stopped listening on port 38069
+1607605225959	Marionette	INFO	Stopped listening on port 33973
+1607605226684	Marionette	INFO	Stopped listening on port 44419
+1607605307487	geckodriver	INFO	Listening on 127.0.0.1:52483
+1607605307491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIb3U8v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607605312265	Marionette	INFO	Listening on port 34499
+1607605312320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: cache-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/router
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: globals-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+1607623776791	Marionette	INFO	Stopped listening on port 34499
+1607733437207	geckodriver	INFO	Listening on 127.0.0.1:60777
+1607733438062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemJIoQl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607733459083	Marionette	INFO	Listening on port 36673
+1607733459632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607733502688	Marionette	INFO	Stopped listening on port 36673
+1607734078159	geckodriver	INFO	Listening on 127.0.0.1:37747
+1607734078163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepoEBVa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607734082514	Marionette	INFO	Listening on port 46205
+1607734082622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1607734093997	Marionette	INFO	Stopped listening on port 46205
+1607734194838	geckodriver	INFO	Listening on 127.0.0.1:39947
+1607734194842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel2OwwU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607734199523	Marionette	INFO	Listening on port 32799
+1607734199576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://oxt.me/static/libs/require/require.js, line 8: Error: Script error for: app/boot/startup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
+JavaScript error: https://oxt.me/static/app/commons/utils/models.utils.js, line 61: TypeError: Unable to process binding "text: function(){return $parent.getFormattedAddress($data) }"
+Message: model.labels is undefined
